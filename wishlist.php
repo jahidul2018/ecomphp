@@ -30,7 +30,7 @@ $cart = $_SESSION['cart'];
 						<th>Product Name</th>
 						<th>Price</th>
 						<th>Added On</th>
-						<th>Operations</th>
+						<th>Operations !</th>
 					</tr>
 				</thead>
 				<tbody>
